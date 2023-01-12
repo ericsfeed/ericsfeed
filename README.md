@@ -1,4 +1,4 @@
-👋 Hi, I’m @ericsfeed
+👋 Hello,
 
 - I’m interested in javascript, react, react native,  aws cloud, nosql, serverless functions, data security, rapid development. 
 
