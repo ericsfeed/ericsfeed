@@ -21,6 +21,14 @@ Mimesys AI emphasizes:
 
 Project: https://www.mimesys.ai/
 
+## Tech I use
+- JavaScript/TypeScript, Python
+- React / modern web app stacks
+- LLM tooling & workflows
+- AWS + serverless patterns
+- Data/security-minded system design
+
+
 ## Writing (recent articles)
 I write about turning prompting into an engineering discipline—treating outputs like experiments you can iterate, measure, and reuse.
 
@@ -33,15 +41,7 @@ I write about turning prompting into an engineering discipline—treating output
 - *Turning Messy Prompts into Repeatable Experiments*  
   https://medium.com/@erichestenes/turning-messy-prompts-into-repeatable-experiments-4220a5949726
 
-- *Regarding this bit "For streaming the following will/might..."*  
-  https://medium.com/@erichestenes/regarding-this-bit-for-streaming-the-following-will-might-should-work-and-it-didnt-just-8c9291bd429d
 
-## Tech I use
-- JavaScript/TypeScript, Python
-- React / modern web app stacks
-- LLM tooling & workflows
-- AWS + serverless patterns
-- Data/security-minded system design
 
 ## Find me online
 - GitHub: https://github.com/ericsfeed
