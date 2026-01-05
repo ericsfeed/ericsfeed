@@ -23,6 +23,7 @@ Project: https://www.mimesys.ai/
 
 ## Tech I use
 - JavaScript/TypeScript, Python
+- anthropic claude, open ai chatgpt, google gemini, openrouter 
 - React / modern web app stacks
 - LLM tooling & workflows
 - AWS + serverless patterns
