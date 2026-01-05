@@ -27,7 +27,7 @@ Project: https://www.mimesys.ai/
 - React / modern web app stacks
 - supabase, postgres
 - anthropic claude, open ai chatgpt, google gemini, openrouter 
-- vercel, fly, redis
+- vercel, fly, redis, tailwind, css 
 - git, github
 - LLM tooling & workflows
 - AWS + serverless patterns
