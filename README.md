@@ -47,4 +47,4 @@ I write about turning prompting into an engineering discipline—treating output
 ## Find me online
 - GitHub: https://github.com/ericsfeed
 - LinkedIn: https://www.linkedin.com/in/erichestenes
-- 
+
