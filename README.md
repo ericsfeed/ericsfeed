@@ -22,10 +22,12 @@ Mimesys AI emphasizes:
 
 Project: https://www.mimesys.ai/
 
-## Tech I use
+## Tech I use constantly 
 - JavaScript/TypeScript, Python
-- anthropic claude, open ai chatgpt, google gemini, openrouter 
 - React / modern web app stacks
+- supabase, postgres
+- anthropic claude, open ai chatgpt, google gemini, openrouter 
+- vercel, fly, redis 
 - LLM tooling & workflows
 - AWS + serverless patterns
 - Data/security-minded system design
