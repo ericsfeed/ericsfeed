@@ -24,7 +24,7 @@ Project: https://www.mimesys.ai/
 
 ## Tech I use constantly 
 - JavaScript/TypeScript, Python
-- React / modern web app stacks
+- React / nextjs, modern web app stacks
 - supabase, postgres
 - anthropic claude, open ai chatgpt, google gemini, openrouter 
 - vercel, fly, redis, tailwind, css 
