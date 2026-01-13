@@ -29,6 +29,7 @@ Project: https://www.mimesys.ai/
 - anthropic claude, open ai chatgpt, google gemini, openrouter 
 - vercel, fly, redis, tailwind, css 
 - git, github
+- tauri, rust
 - LLM tooling & workflows
 - AWS + serverless patterns
 - Data/security-minded system design
